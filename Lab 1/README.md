@@ -147,9 +147,9 @@ Think about the setting of the device: is the environment a place where the devi
 Prototypes:
 
 <p align="center">
-  <img src="lab_1_documentation/form_1_proto.jpeg" width="500" alt="Form 1 Proto">
-  <img src="lab_1_documentation/form_1_proto1.jpeg" width="500" alt="Form 1 Proto1">
-  <img src="lab_1_documentation/form_1_proto2.jpeg" width="500" alt="Form 1 Proto2">
+  <img src="lab_1_documentation/form_1_proto.jpg" width="500" alt="Form 1 Proto">
+  <img src="lab_1_documentation/form_1_proto1.jpg" width="500" alt="Form 1 Proto1">
+  <img src="lab_1_documentation/form_1_proto2.jpg" width="500" alt="Form 1 Proto2">
 </p>
 
 
