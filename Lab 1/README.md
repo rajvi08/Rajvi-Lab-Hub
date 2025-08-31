@@ -165,6 +165,25 @@ The devices design is inspired from fireflies, bio-inspired design. The biolumin
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+**Setting, players, activity and goals**
+- Setting: Road running
+- Players: Runners / Running Enthusiasts
+- Activity: Marathon Training / Hobby Running
+- Goals: To match runners training for the same marathon or following the same route
+- Video: https://drive.google.com/file/d/16K0l06t5nviMj4vyUiN827Lc9GmsSyCl/view?usp=drive_link 
+
+- Setting: The Cafe
+- Players: Cafe customers
+- Activity: Miscellaneous / Consuming cafe food
+- Goals: To match people having same food likings.
+- Video: https://drive.google.com/file/d/1WjtDVWhu4xlWhua-EuUwstQGYzlsXpuw/view?usp=drive_link
+
+- Setting: At the station
+- Players: Commuters
+- Activity: Waiting for the bus/tram/train/metro
+- Goals: To match people traveling to the same destination and are from the same organization.
+- Video: https://drive.google.com/file/d/1DWkW4-KTzIDCsJWOJK8MhOE3yb0tquWk/view?usp=drive_link
+
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
