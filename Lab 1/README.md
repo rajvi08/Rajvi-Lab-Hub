@@ -76,6 +76,15 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 \*\***Include pictures of your storyboards here**\*\*
 
+## Storyboards
+
+Here are the storyboards for Lab 1:
+
+![Storyboard 1](lab_1_documentation/storyboard_1.jpeg)
+![Storyboard 2](lab_1_documentation/storyboard_2.jpeg)
+![Storyboard 3](lab_1_documentation/storyboard_3.jpeg)
+
+
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
 \*\***Summarize feedback you got here.**\*\*
