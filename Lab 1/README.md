@@ -136,12 +136,17 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-<p align="center">
-  <img src="lab_1_documentation/form_1.jpeg" width="500" alt="Form 1">
-  <img src="lab_1_documentation/form_2.jpeg" width="500" alt="Form 2">
-  <img src="lab_1_documentation/form_3.jpeg" width="500" alt="Form 3">
-  <img src="lab_1_documentation/form_4.jpeg" width="500" alt="Form 4">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="lab_1_documentation/form_1.jpeg" width="500" alt="Form 1"></td>
+    <td><img src="lab_1_documentation/form_4.jpeg" width="500" alt="Form 4"></td>
+  </tr>
+  <tr>
+    <td><img src="lab_1_documentation/form_2.jpeg" width="500" alt="Form 2"></td>
+    <td><img src="lab_1_documentation/form_3.jpeg" width="500" alt="Form 3"></td>
+  </tr>
+</table>
+
 
 
 Prototypes:
