@@ -147,17 +147,14 @@ Think about the setting of the device: is the environment a place where the devi
   </tr>
 </table>
 
-
-
 Prototypes:
 
 <p align="center">
   <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
   <img src="lab_1_documentation/form_1_proto1.JPG" width="500" alt="Form 1 Proto1">
   <img src="lab_1_documentation/form_1_proto2.JPG" width="500" alt="Form 1 Proto2">
+  <img src="lab_1_documentation/form_1_proto3.JPG" width="500" alt="Form 1 Proto3">
 </p>
-
-
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
