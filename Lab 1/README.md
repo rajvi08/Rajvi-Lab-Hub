@@ -82,18 +82,19 @@ Here are the storyboards for Lab 1:
 
 <table>
   <tr>
-    <td><img src="lab_1_documentation/storyboard_1.jpeg" width="250"><br>Storyboard 1</td>
-    <td><img src="lab_1_documentation/storyboard_2.jpeg" width="250"><br>Storyboard 2</td>
+    <td><img src="lab_1_documentation/storyboard_1.jpeg" width="500"><br>Storyboard 1</td>
+    <td><img src="lab_1_documentation/storyboard_2.jpeg" width="500"><br>Storyboard 2</td>
   </tr>
   <tr>
-    <td><img src="lab_1_documentation/storyboard_3.jpeg" width="250"><br>Storyboard 3</td>
-    <td><img src="lab_1_documentation/storyboard_4.jpeg" width="250"><br>Storyboard 4</td>
+    <td><img src="lab_1_documentation/storyboard_3.jpeg" width="500"><br>Storyboard 3</td>
+    <td><img src="lab_1_documentation/storyboard_4.jpeg" width="500"><br>Storyboard 4</td>
   </tr>
   <tr>
-    <td><img src="lab_1_documentation/storyboard_5.jpeg" width="250"><br>Storyboard 5</td>
+    <td><img src="lab_1_documentation/storyboard_5.jpeg" width="500"><br>Storyboard 5</td>
     <td></td>
   </tr>
 </table>
+
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
