@@ -2,7 +2,10 @@
 
 # Staging Interaction
 
-\*\***NAME OF COLLABORATOR HERE**\*\*
+\*\***Rajvi(rp674@cornell.edu), Thomas(tak83@cornell.edu), Om(ok97@cornell.edu), Laura(lm979@cornell.edu)**\*\*
+
+
+Rajvi(rp674@cornell.edu), Thomas(tak83@cornell.edu), Om(ok97@cornell.edu), Laura(lm979@cornell.edu)
 
 In the original stage production of Peter Pan, Tinker Bell was represented by a darting light created by a small handheld mirror off-stage, reflecting a little circle of light from a powerful lamp. Tinkerbell communicates her presence through this light to the other characters. See more info [here](https://en.wikipedia.org/wiki/Tinker_Bell). 
 
@@ -62,7 +65,7 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 \*\***Describe your setting, players, activity and goals here.**\*\*
 
-_Overview:_  A pair of interactive devices that leads to spontaneous interaction between strangers, wanting to meet people who have similar hobbies, interests, language, or come from same background, etc. It uses light signal, that flashes the same color, indicating that there is a shared goal, background or characteristics between the users, making it easy for them to start a conversation.
+_Overview:_ To create a pair of interactive devices that leads to spontaneous interaction between strangers, wanting to meet people who have similar hobbies, interests, language, or come from same background, etc. It uses light signal, that flashes the same color, indicating that there is a shared goal, background or characteristics between the users, making it easy for them to start a conversation.
 
 _Setting:_ Social gatherings, activities that require people to step out of house.
 
