@@ -80,20 +80,21 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 Here are the storyboards for Lab 1:
 
-<table>
+<table align="center">
   <tr>
-    <td><img src="lab_1_documentation/storyboard_1.jpeg" width="500"><br>Storyboard 1</td>
-    <td><img src="lab_1_documentation/storyboard_2.jpeg" width="500"><br>Storyboard 2</td>
+    <td><img src="lab_1_documentation/storyboard_1.jpeg" width="500" alt="Storyboard 1"></td>
+    <td><img src="lab_1_documentation/storyboard_2.jpeg" width="500" alt="Storyboard 2"></td>
   </tr>
   <tr>
-    <td><img src="lab_1_documentation/storyboard_3.jpeg" width="500"><br>Storyboard 3</td>
-    <td><img src="lab_1_documentation/storyboard_4.jpeg" width="500"><br>Storyboard 4</td>
+    <td><img src="lab_1_documentation/storyboard_3.jpeg" width="500" alt="Storyboard 3"></td>
+    <td><img src="lab_1_documentation/storyboard_4.jpeg" width="500" alt="Storyboard 4"></td>
   </tr>
   <tr>
-    <td><img src="lab_1_documentation/storyboard_5.jpeg" width="500"><br>Storyboard 5</td>
-    <td></td>
+    <td><img src="lab_1_documentation/storyboard_5.jpeg" width="500" alt="Storyboard 5"></td>
+    <td><img src="lab_1_documentation/storyboard_6.jpg" width="500" alt="Storyboard 6"></td>
   </tr>
 </table>
+
 
 
 \*\***Summarize feedback you got here.**\*\*
