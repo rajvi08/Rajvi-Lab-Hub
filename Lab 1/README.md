@@ -96,8 +96,6 @@ Here are the storyboards for Lab 1:
 </table>
 
 
-Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
-
 \*\***Summarize feedback you got here.**\*\*
 
 _Reflection:_ This product acts on the assumption that people want to have a conversation or engage with people they have things in common with. This device uses proximity as a factor, what happens when you match with several people around you? Are the matches queued? Are the strongest matches notified before? We want a big enough screen/surface for light to be visible
@@ -117,13 +115,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 Form Exploration:
 
-Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/IRL-CT/tinkerbelle).
 
-We invented this tool for this lab! 
-
-If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
-
-\*\***Give us feedback on Tinkerbelle.**\*\*
 
 
 ## Part D. Wizard the device
@@ -145,10 +137,19 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***Include sketches of what your devices might look like here.**\*\*
 
 <p align="center">
-  <img src="lab_1_documentation/form_1.jpeg" width="200" alt="Form 1">
-  <img src="lab_1_documentation/form_2.jpeg" width="200" alt="Form 2">
-  <img src="lab_1_documentation/form_3.jpeg" width="200" alt="Form 3">
-  <img src="lab_1_documentation/form_4.jpeg" width="200" alt="Form 4">
+  <img src="lab_1_documentation/form_1.jpeg" width="500" alt="Form 1">
+  <img src="lab_1_documentation/form_2.jpeg" width="500" alt="Form 2">
+  <img src="lab_1_documentation/form_3.jpeg" width="500" alt="Form 3">
+  <img src="lab_1_documentation/form_4.jpeg" width="500" alt="Form 4">
+</p>
+
+
+Prototypes:
+
+<p align="center">
+  <img src="lab_1_documentation/form_1_proto.jpeg" width="500" alt="Form 1 Proto">
+  <img src="lab_1_documentation/form_1_proto1.jpeg" width="500" alt="Form 1 Proto1">
+  <img src="lab_1_documentation/form_1_proto2.jpeg" width="500" alt="Form 1 Proto2">
 </p>
 
 
