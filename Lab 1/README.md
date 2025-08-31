@@ -158,7 +158,7 @@ Prototypes:
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-The devices design is inspired from firefly. The bioluminiscent effect overlaps with our design , where emitting light  is the medium of interaction.
+The devices design is inspired from fireflies, bio-inspired design. The bioluminiscent effect overlaps with our design , where emitting light  is the medium of interaction.
 
 ## Part F. Record
 
@@ -167,7 +167,7 @@ The devices design is inspired from firefly. The bioluminiscent effect overlaps 
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-
+_______________________________________________________________________________________________________________________________________________________________________________
 
 # Staging Interaction, Part 2 
 
