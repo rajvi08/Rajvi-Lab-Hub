@@ -147,7 +147,7 @@ Think about the setting of the device: is the environment a place where the devi
   </tr>
 </table>
 
-Prototypes:
+Rapid Prototyping:
 
 <p align="center">
   <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
