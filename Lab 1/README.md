@@ -123,6 +123,7 @@ Form Exploration:
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
+
 _Wizard Setup Video:_
 
 \*\***Show the follow-up work here.**\*\*
@@ -184,6 +185,7 @@ The devices design is inspired from fireflies, bio-inspired design. The biolumin
 - _Video 3:_ https://drive.google.com/file/d/1DWkW4-KTzIDCsJWOJK8MhOE3yb0tquWk/view?usp=drive_link
 
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
+
 Thomas(tak83@cornell.edu) who contributed to the team in the form of ideas, storyboard, video( actor aswell as editor) and prototyping, Om(ok97@cornell.edu) contributed to the team through idea discussions, device formm iterations, video recording and prototype making, Laura(lm979@cornell.edu) contribited to the team through idea critiques, video(actor), storyboard, device form iterations.
 
 _______________________________________________________________________________________________________________________________________________________________________________
