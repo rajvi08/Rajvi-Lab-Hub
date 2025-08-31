@@ -104,7 +104,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 ## Part C. Prototype the device
 
-You will be using your smartphone as a stand-in for the device you are prototyping. You will use the browser of your smart phone to act as a “light” and use a remote control interface to remotely change the light on that device. 
+Form Exploration:
 
 Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/IRL-CT/tinkerbelle).
 
@@ -132,6 +132,14 @@ Only now should you start worrying about what the device should look like. Devel
 Think about the setting of the device: is the environment a place where the device could overheat? Is water a danger? Does it need to have bright colors in an emergency setting?
 
 \*\***Include sketches of what your devices might look like here.**\*\*
+
+<p align="center">
+  <img src="lab_1_documentation/form_1.jpeg" width="200" alt="Form 1">
+  <img src="lab_1_documentation/form_2.jpeg" width="200" alt="Form 2">
+  <img src="lab_1_documentation/form_3.jpeg" width="200" alt="Form 3">
+  <img src="lab_1_documentation/form_4.jpeg" width="200" alt="Form 4">
+</p>
+
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
