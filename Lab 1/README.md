@@ -92,6 +92,9 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 \*\***Summarize feedback you got here.**\*\*
 
+_Reflection:_This product acts on the assumption that people want to have a conversation or engage with people they have things in common with. This device uses proximity as a factor, what happens when you match with several people around you? Are the matches queued? Are the strongest matches notified before? We want a big enough screen/surface for light to be visible
+
+_Feedback:_
 
 ## Part B. Act out the Interaction
 
@@ -143,7 +146,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
-The devices design is inspired from firefly. The bioluminiscent effect at the tip of these insects inspired us, here our design i influenced by the light , as it is the medium of interaction for our proposed device.
+The devices design is inspired from firefly. The bioluminiscent effect overlaps with our design , where emitting light  is the medium of interaction.
 
 ## Part F. Record
 
