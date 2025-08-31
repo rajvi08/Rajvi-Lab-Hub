@@ -143,6 +143,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
+The devices design is inspired from firefly. The bioluminiscent effect at the tip of these insects inspired us, here our design i influenced by the light , as it is the medium of interaction for our proposed device.
 
 ## Part F. Record
 
