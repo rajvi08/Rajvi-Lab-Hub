@@ -92,7 +92,7 @@ Present your ideas to the other people in your breakout room (or in small groups
 
 \*\***Summarize feedback you got here.**\*\*
 
-_Reflection:_This product acts on the assumption that people want to have a conversation or engage with people they have things in common with. This device uses proximity as a factor, what happens when you match with several people around you? Are the matches queued? Are the strongest matches notified before? We want a big enough screen/surface for light to be visible
+_Reflection:_ This product acts on the assumption that people want to have a conversation or engage with people they have things in common with. This device uses proximity as a factor, what happens when you match with several people around you? Are the matches queued? Are the strongest matches notified before? We want a big enough screen/surface for light to be visible
 
 _Feedback:_
 
