@@ -60,19 +60,17 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
 
 ## Part A. Plan 
 
-To stage an interaction with your interactive device, think about:
-
-_Setting:_ Where is this interaction happening? (e.g., a jungle, the kitchen) When is it happening?
-
-_Players:_ Who is involved in the interaction? Who else is there? If you reflect on the design of current day interactive devices like the Amazon Alexa, it’s clear they didn’t take into account people who had roommates, or the presence of children. Think through all the people who are in the setting.
-
-_Activity:_ What is happening between the actors?
-
-_Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening the fridge). 
-
-The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
-
 \*\***Describe your setting, players, activity and goals here.**\*\*
+
+_Overview:_  A pair of interactive devices that leads to spontaneous interaction between strangers, wanting to meet people who have similar hobbies, interests, language, or come from same background, etc. It uses light signal, that flashes the same color, indicating that there is a shared goal, background or characteristics between the users, making it easy for them to start a conversation.
+
+_Setting:_ Social gatherings, activities that require people to step out of house.
+
+_Players:_ The interaction takes place between 2 or more people, who have never met before, but are interested in making new friends, connections and networking.
+
+_Activity:_ The players are engaged in shared activities, examples are players meeting during orientation, jogging on the same path, travelling, waiting for a bus(commute), concert, etc. The condition is for the players to be in vicinity with one another.
+
+_Interaction:_  Players are wearing the device and have a choice to set the preference to matching criterion. If the criterion is fulfilled, and if the players are standing near each other, (let’s call this zone as connection making zone where people get matched, light being the indicator) in the connection making zone, their devices will flash same color lights indicating, a match, they can find the person, by trying to spot the flashing light around them.
 
 Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
 
