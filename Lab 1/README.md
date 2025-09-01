@@ -132,13 +132,19 @@ Think about the setting of the device: is the environment a place where the devi
 <table align="center">
   <tr>
     <td><img src="lab_1_documentation/form_1.jpeg" width="500" alt="Form 1"></td>
-    <td><img src="lab_1_documentation/form_4.jpeg" width="500" alt="Form 4"></td>
+    <td>
+      <img src="lab_1_documentation/form_4.jpeg" width="500" alt="Form 4"><br>
+      <span style="font-size:12px;">
+        Image generated using AI, prompt: Create an image of a firefly inspired wearable device that glows and can be worn by people on their arm. The design should be minimalistic and apple-inspired. It will be worn around the bicep.
+      </span>
+    </td>
   </tr>
   <tr>
     <td><img src="lab_1_documentation/form_2.jpeg" width="500" alt="Form 2"></td>
     <td><img src="lab_1_documentation/form_3.jpeg" width="500" alt="Form 3"></td>
   </tr>
 </table>
+
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
