@@ -99,11 +99,9 @@ The following storyboards have been set for various scenarios such as users atte
 
 _Reflection:_ This product acts on the assumption that people want to have a conversation or engage with people they have things in common with. This device uses proximity as a factor, what happens when you match with several people around you? Are the matches queued? Are the strongest matches notified before? We want a big enough screen/surface for light to be visible
 
-_Feedback:_
+_Feedback:_ Light is not the best way to grab the users attention in case of a match in the broad daylight( Vibrations? (how will it be different thatn the mobile notifications). Think about matching process beyond 2 people, how will you match a group of 4 people, what will be the maximum number of people matching? 3 people dynamics: If Person A like apples & cats, Person B likes orange & cats and person C likes Orange & Dogs, think about the interaction between 3 people.
 
 ## Part B. Act out the Interaction
-
-Try physically acting out the interaction you planned. For now, you can just pretend the device is doing the things you’ve scripted for it. 
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
@@ -190,9 +188,6 @@ Rapid Prototyping:
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 
 Thomas(tak83@cornell.edu) who contributed to the team in the form of ideas, storyboard, video( actor aswell as editor) and prototyping, Om(ok97@cornell.edu) contributed to the team through idea discussions, device form iterations, video recording and prototype making, Laura(lm979@cornell.edu) contribited to the team through idea critiques, video(actor), storyboard, device form iterations.
-
-Behind the scenes
-
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
