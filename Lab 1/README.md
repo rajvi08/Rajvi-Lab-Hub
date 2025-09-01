@@ -185,7 +185,7 @@ Rapid Prototyping:
 
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 
-Thomas(tak83@cornell.edu) who contributed to the team in the form of ideas, storyboard, video( actor aswell as editor) and prototyping, Om(ok97@cornell.edu) contributed to the team through idea discussions, device formm iterations, video recording and prototype making, Laura(lm979@cornell.edu) contribited to the team through idea critiques, video(actor), storyboard, device form iterations.
+Thomas(tak83@cornell.edu) who contributed to the team in the form of ideas, storyboard, video( actor aswell as editor) and prototyping, Om(ok97@cornell.edu) contributed to the team through idea discussions, device form iterations, video recording and prototype making, Laura(lm979@cornell.edu) contribited to the team through idea critiques, video(actor), storyboard, device form iterations.
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
