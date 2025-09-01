@@ -78,7 +78,7 @@ Storyboards are a tool for visually exploring a users interaction with a device.
 
 ## Storyboards
 
-Here are the storyboards for Lab 1:
+The following storyboards have been set for various scenarios such as users attending orientation, at a restrarant, travelling, at a bustop, jogging. Every time a match is made, the underlying proximity rule changes based on the user preference for matching, it can be hoobies, interestes, destination, activity, food item, etc:
 
 <table align="center">
   <tr>
