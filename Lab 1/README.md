@@ -109,7 +109,13 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
+
+
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
+
+- The user can have niche interests(Martial arts or stamp collection) that they can keep as preferences, the frequency interactions based on the niche interests will be lesser, so in this case, should we increase the proxiity field of the device and set it to >100 radius?
+  
+- Matching process based on the same interests/activities will act as a conversation initiator, it wil be interesting to see, how the matching process wil work based on different interets that compliment each other. Will this lead to interesting conversations and exchange of knowledge?
 
 ## Part C. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -186,6 +192,9 @@ Rapid Prototyping:
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
 
 Thomas(tak83@cornell.edu) who contributed to the team in the form of ideas, storyboard, video( actor aswell as editor) and prototyping, Om(ok97@cornell.edu) contributed to the team through idea discussions, device form iterations, video recording and prototype making, Laura(lm979@cornell.edu) contribited to the team through idea critiques, video(actor), storyboard, device form iterations.
+
+Behind the scenes
+
 
 _______________________________________________________________________________________________________________________________________________________________________________
 
