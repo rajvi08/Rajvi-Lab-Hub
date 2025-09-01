@@ -68,11 +68,9 @@ _Setting:_ Social gatherings, activities that require people to step out of hous
 
 _Players:_ The interaction takes place between 2 or more people, who have never met before, but are interested in making new friends, connections and networking.
 
-_Activity:_ The players are engaged in shared activities, examples are players meeting during orientation, jogging on the same path, travelling, waiting for a bus(commute), concert, etc. The condition is for the players to be in vicinity with one another.
+_Activity:_ The players are engaged in shared activities, examples are players meeting during orientation, jogging on the same path, travelling, waiting for a bus(commute), concert, etc. The condition is for the players to be in vicinity of the other.
 
-_Interaction:_  Players are wearing the device and have a choice to set the preference to matching criterion. If the criterion is fulfilled, and if the players are standing near each other, (let’s call this zone as connection making zone where people get matched, light being the indicator) in the connection making zone, their devices will flash same color lights indicating, a match, they can find the person, by trying to spot the flashing light around them.
-
-Storyboards are a tool for visually exploring a users interaction with a device. They are a fast and cheap method to understand user flow, and iterate on a design before attempting to build on it. Take some time to read through this explanation of [storyboarding in UX design](https://www.smashingmagazine.com/2017/10/storyboarding-ux-design/). Sketch seven storyboards of the interactions you are planning. **It does not need to be perfect**, but must get across the behavior of the interactive device and the other characters in the scene. 
+_Interaction:_  Players are wearing the device and have a choice to set the preference to matching criterion. If the criterion is fulfilled, and if the players are standing near each other, (let’s call this zone as connection making zone where people get matched, light being the indicator) in the connection making zone, their devices will flash same color lights indicating, a match, they can then find the person, by trying to spot the flashing light around them, further going ahead to connect with them.
 
 \*\***Include pictures of your storyboards here**\*\*
 
@@ -109,13 +107,13 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there things that seemed better on paper than acted out?**\*\*
 
-
+Having a similar eating habit seemed to be interesting on paper. Acting it out in the setting of the cafe, led to discussion about food items as things people can see and observe and do not require flashing of light(indicator) for people to have a conersation about them. Also there are selected number of food items and drins available so the matching frequency will be greater in this case.
 
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
 
-- The user can have niche interests(Martial arts or stamp collection) that they can keep as preferences, the frequency interactions based on the niche interests will be lesser, so in this case, should we increase the proxiity field of the device and set it to >100 radius?
+- The user can have niche interests(Martial arts or stamp collection) that they can keep as preferences, the frequency of interactions based on such interests will be less. The question arises, what will be the role of proximity in these scenarios.
   
-- Matching process based on the same interests/activities will act as a conversation initiator, it wil be interesting to see, how the matching process wil work based on different interets that compliment each other. Will this lead to interesting conversations and exchange of knowledge?
+- Matching process based on the same interests/activities will be a conversation initiator. On the other hand, it wil be interesting to see, how the matching process wil work based on different interets that compliment each other. Will this lead to interesting conversations and exchange of knowledge?
 
 ## Part C. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
