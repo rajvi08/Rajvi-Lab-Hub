@@ -114,17 +114,21 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 ## Part C. Prototype the device
 
-Form Exploration:
+Rapid Prototyping:
 
-
-
+<p align="center">
+  <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
+  <img src="lab_1_documentation/form_1_proto1.JPG" width="500" alt="Form 1 Proto1">
+  <img src="lab_1_documentation/form_1_proto2.JPG" width="500" alt="Form 1 Proto2">
+  <img src="lab_1_documentation/form_1_proto3.JPG" width="500" alt="Form 1 Proto3">
+</p>
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
 
-_Wizard Setup Video:_
+_Wizard Setup Video:_ https://drive.google.com/file/d/1q0Dth6uk1UATWI9xTpk5bZQh2o29zhuR/view?usp=drive_link
 
 \*\***Show the follow-up work here.**\*\*
 
@@ -147,15 +151,6 @@ Think about the setting of the device: is the environment a place where the devi
     <td><img src="lab_1_documentation/form_3.jpeg" width="500" alt="Form 3"></td>
   </tr>
 </table>
-
-Rapid Prototyping:
-
-<p align="center">
-  <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
-  <img src="lab_1_documentation/form_1_proto1.JPG" width="500" alt="Form 1 Proto1">
-  <img src="lab_1_documentation/form_1_proto2.JPG" width="500" alt="Form 1 Proto2">
-  <img src="lab_1_documentation/form_1_proto3.JPG" width="500" alt="Form 1 Proto3">
-</p>
 
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
