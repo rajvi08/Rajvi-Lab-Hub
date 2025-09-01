@@ -48,11 +48,11 @@ A) [Plan](#part-a-plan)
 
 B) [Act out the interaction](#part-b-act-out-the-interaction) 
 
-C) [Prototype the device](#part-c-prototype-the-device)
+C) [Wizard the device](#part-c-wizard-the-device) 
 
-D) [Wizard the device](#part-d-wizard-the-device) 
+D) [Costume the device](#part-d-costume-the-device)
 
-E) [Costume the device](#part-e-costume-the-device)
+E) [Prototype the device](#part-e-prototype-the-device)
 
 F) [Record the interaction](#part-f-record)
 
@@ -111,19 +111,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 \*\***Are there new ideas that occur to you or your collaborator that come up from the acting?**\*\*
 
-
-## Part C. Prototype the device
-
-Rapid Prototyping:
-
-<p align="center">
-  <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
-  <img src="lab_1_documentation/form_1_proto1.JPG" width="500" alt="Form 1 Proto1">
-  <img src="lab_1_documentation/form_1_proto2.JPG" width="500" alt="Form 1 Proto2">
-  <img src="lab_1_documentation/form_1_proto3.JPG" width="500" alt="Form 1 Proto3">
-</p>
-
-## Part D. Wizard the device
+## Part C. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 \*\***Include your first attempts at recording the set-up video here.**\*\*
@@ -133,7 +121,7 @@ _Wizard Setup Video:_ https://drive.google.com/file/d/1q0Dth6uk1UATWI9xTpk5bZQh2
 \*\***Show the follow-up work here.**\*\*
 
 
-## Part E. Costume the device
+## Part D. Costume the device
 
 Only now should you start worrying about what the device should look like. Develop three costumes so that you can use your phone as this device.
 
@@ -155,6 +143,17 @@ Think about the setting of the device: is the environment a place where the devi
 \*\***What concerns or opportunitities are influencing the way you've designed the device to look?**\*\*
 
 The devices design is inspired from fireflies, bio-inspired design. The bioluminiscent effect overlaps with our design , where emitting light  is the medium of interaction.
+
+## Part E. Prototype the device
+
+Rapid Prototyping:
+
+<p align="center">
+  <img src="lab_1_documentation/form_1_proto.JPG" width="500" alt="Form 1 Proto">
+  <img src="lab_1_documentation/form_1_proto1.JPG" width="500" alt="Form 1 Proto1">
+  <img src="lab_1_documentation/form_1_proto2.JPG" width="500" alt="Form 1 Proto2">
+  <img src="lab_1_documentation/form_1_proto3.JPG" width="500" alt="Form 1 Proto3">
+</p>
 
 ## Part F. Record
 
